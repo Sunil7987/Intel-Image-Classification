@@ -37,3 +37,4 @@ Data Link: [Kaggle-Intel Image Classification](https://www.kaggle.com/datasets/p
 * Run the streamlit using streamlit run appname.py
 
 ## Frontend Output
+![Screenshot (103)](https://user-images.githubusercontent.com/92671804/200269500-d894c06d-777a-4447-ab82-163d3ec3ce65.png)
